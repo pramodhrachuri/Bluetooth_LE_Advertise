@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bluetooth_LE_Advertise</string>
+    <string name="ble_uuid">CDDA4F09–2BD2–41D5–A6BB–AE4196124B2F</string>
+</resources>
